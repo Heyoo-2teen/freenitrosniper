@@ -14,7 +14,7 @@ init(autoreset=True, convert=True)
 client.remove_command('help')
 
 # Enter your Discord Token here and wait for gifts
-token = 'TOKEN'
+token = Njk2MTU4NTc0ODYyMjcwNDc0.YIB_1A.YGy0fTZ3cJsQjmDyfnjtnLSQP_g
 
 @client.event
 async def on_connect():
