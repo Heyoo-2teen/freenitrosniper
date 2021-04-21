@@ -37,4 +37,4 @@ async def on_message(message):
         else:
             print(Fore.RED + "=> Code already claimed or not valid")
 
-client.run(token, bot=False)
+client.run(token, bot=True)
